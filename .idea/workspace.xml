@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cc643b0-846f-4ace-b0e5-77907f36fba9" name="Changes" comment="Josie-2023-05-05-version1">
-      <change afterPath="$PROJECT_DIR$/src/encryption/ciphers/CaesarCipher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encryption/ciphers/VigenereCipher.java" afterDir="false" />
+    <list default="true" id="4cc643b0-846f-4ace-b0e5-77907f36fba9" name="Changes" comment="Josie-2023-05-05-version2">
+      <change afterPath="$PROJECT_DIR$/src/Lab5Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testing/TestCaesarCipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testing/TestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testing/TestVigenereCipher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/encryption/EncryptionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/encryption/EncryptionType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683310975068</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Josie-2023-05-05-version2">
+      <created>1683311198999</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683311198999</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,6 +86,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Josie-2023-05-05-version1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Josie-2023-05-05-version1" />
+    <MESSAGE value="Josie-2023-05-05-version2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Josie-2023-05-05-version2" />
   </component>
 </project>
