@@ -1,4 +1,6 @@
 package encryption;
+import encryption.ciphers.CaesarCipher;
+import encryption.ciphers.VigenereCipher;
 
 public interface EncryptionType {
     public static final int START_CHAR = 32;
